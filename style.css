@@ -1,0 +1,51 @@
+    .container-team-1{
+      background: blue;
+    }
+
+    .content-1 {
+    position: absolute;
+    width: 10%;
+  
+    left: 504px;
+    top: 330px;
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100px;
+    text-transform: uppercase;
+    color: #000000;
+    writing-mode: vertical-rl;
+    }
+  
+    .container-blue-img {
+    
+    width: 238px;
+    height: 250px;
+    left: 478px;
+    top: 244.5px;
+    background: url(image.png);
+    }
+
+     .container-blue-img img {
+        width: 100%; 
+        height: 100%;
+
+     }
+
+   .titile-down{ 
+      position: absolute;
+width: 117px;
+height: 27px;
+left: 240px;
+top: 686px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #000000;
+  }
